@@ -1,0 +1,44 @@
+_repo: Memories--A-Story-of-German-Love_14521
+_version: 0.1.0
+alternative_title: Deutsche Liebe. English
+contributor:
+  translator:
+    agent_name: Upton, George P. (George Putnam)
+    alias: Upton, George Putnam
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '5760'
+    url: http://www.gutenberg.org/2009/agents/5760
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Müller, F. Max (Friedrich Max)
+    aliases:
+    - Muller, F. Max (Friedrich Max)
+    - F. Max Müller
+    - Müller, Max
+    - Mueller, Friedrich Max
+    - Müller, Friedrich Max
+    birthdate: 1823
+    deathdate: 1900
+    gutenberg_agent_id: '787'
+    url: http://www.gutenberg.org/2009/agents/787
+    wikipedia: http://en.wikipedia.org/wiki/Max_M%C3%BCller
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14521'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion historians -- Germany -- Biography'
+- !lcsh 'Müller, F. Max (Friedrich Max), 1823-1900'
+- !lcc 'PT'
+title: 'Memories: A Story of German Love'
+url: http://www.gutenberg.org/ebooks/14521
